@@ -6,15 +6,6 @@ import com.yyusufsefa.myapplication.model.Articles
 import com.yyusufsefa.myapplication.model.Source
 
 
-// Code with ❤
-//┌─────────────────────────────┐
-//│ Created by Mirac OZKAN      │
-//│ ─────────────────────────── │
-//│ mirac.ozkan123@gmail.com    │
-//│ ─────────────────────────── │
-//│ 07.04.2020 - 01:57          │
-//└─────────────────────────────┘
-
 object TypeConverter {
 
     @androidx.room.TypeConverter
